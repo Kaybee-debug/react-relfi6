@@ -13,6 +13,7 @@ const App = ({ handleLogout }) => {
 
             setWeather(data);
             setQuery('');
+            
         }
         
     }
